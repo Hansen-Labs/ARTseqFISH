@@ -7,13 +7,14 @@ including other published tools to give easy access to code
 
 
 The folder consists of -10.py files
-		       -a folder with test images
-		       -a folder with test and training data for the SVM models
+		       -a folder with test images (see archive)
+		       -a folder with test and training data for the SVM models (see archive)
 
+Archive| DOI: 10.5281/zenodo.10723692 
 Small demo in interface.py
 
 For a newer version contact bob.vansluijs@gmail.com
--The publically available and easily usable version of the code is expected in the autumn of 2024.
+-The publically update is expected in the autumn of 2024.
 For updates of the software we refer the reader to GITHUB -> Hansen-Labs -> ARTseqFISH repository
 
 		
